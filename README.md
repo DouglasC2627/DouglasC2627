@@ -13,4 +13,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+<img src="assets/pixel-float.svg" alt="pixel art animation of piano, cakes, books, coffee floating in a night sky" width="100%"/>
+
 </div>

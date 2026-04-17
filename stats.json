@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-04-18",
+  "models": {
+    "Claude 3.5 Sonnet": {
+      "provider": "Anthropic",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "color": "d97706"
+    },
+    "Claude 3 Opus": {
+      "provider": "Anthropic",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "color": "b45309"
+    },
+    "GPT-4o": {
+      "provider": "OpenAI",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "color": "10a37f"
+    },
+    "Gemini Pro": {
+      "provider": "Google",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "color": "4285f4"
+    }
+  }
+}

@@ -3,7 +3,7 @@
   "models": {
     "Claude 3.5 Sonnet": {
       "provider": "Anthropic",
-      "input_tokens": 0,
+      "input_tokens": 10000000,
       "output_tokens": 0,
       "color": "d97706"
     },
